@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<user>
+		<name>鈴木太郎</name>
+		<age>20</age>
+	</user>
+	
+	<user>
+		<loginID>ID001</loginID>
+		<age>23</age>
+	</user>
+	
+	<user>
+		<mail>tora@tiger.com</mail>
+		<name>
+			<familyName>相坂</familyName>
+			<firstName>大河</firstName>
+		</name>
+	</user>
+	
+	<user>
+		<name>ぽち</name>
+	</user>
+	
+</data>
